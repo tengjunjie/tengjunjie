@@ -1,0 +1,3 @@
+.ideal/
+gittest.iml
+target/
